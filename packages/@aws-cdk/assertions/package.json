@@ -70,10 +70,10 @@
     "@aws-cdk/cdk-build-tools": "0.0.0",
     "@aws-cdk/pkglint": "0.0.0",
     "@types/fs-extra": "^9.0.13",
-    "@types/jest": "^27.5.0",
+    "@types/jest": "^27.5.1",
     "constructs": "^3.3.69",
     "jest": "^27.5.1",
-    "ts-jest": "^27.1.4"
+    "ts-jest": "^27.1.5"
   },
   "dependencies": {
     "@aws-cdk/cloud-assembly-schema": "0.0.0",
